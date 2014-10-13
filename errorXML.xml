@@ -1,0 +1,7 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="movement_forward" id="9" x="10" y="7">
+    <next>
+      <block type="robot_delay" id="11" inline="true"></block>
+    </next>
+  </block>
+</xml>
