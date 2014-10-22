@@ -1,6 +1,11 @@
 errorXML
 ========
 
+For Jade Robot Developers ONLY
+==============================
+
+Scratch: 
+
 Force an Error to See how the Error Data is produced. 
 
 This Project was Created for developers ONLY and should be removed.  
@@ -10,7 +15,7 @@ This Project was Created for developers ONLY and should be removed.
 Type              : Scratch
 Version           : 01.0
 Author            : myke predko
-Firmware          : 41
+Firmware          : 42
 ```
 
 
