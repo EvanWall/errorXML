@@ -4,11 +4,7 @@ errorXML
 For Jade Robot Developers ONLY
 ==============================
 
-Scratch: 
-
 Force an Error to See how the Error Data is produced. 
-
-This Project was Created for developers ONLY and should be removed.  
 
 ### Project Information
 ```
