@@ -1,7 +1,13 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_forward" id="9" x="10" y="7">
+  <block type="movement_reverse" id="50" x="53" y="24">
     <next>
-      <block type="robot_delay" id="11" inline="true"></block>
+      <block type="movement_leftmotor" id="40" inline="true">
+        <value name="MOVLEFT">
+          <block type="math_number" id="63">
+            <field name="NUM">100</field>
+          </block>
+        </value>
+      </block>
     </next>
   </block>
 </xml>
