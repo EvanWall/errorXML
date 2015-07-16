@@ -1,13 +1,9 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_reverse" id="1" x="53" y="24">
-    <next>
-      <block type="movement_rightmotor" id="20" inline="true">
-        <value name="MOVRIGHT">
-          <block type="math_number" id="27">
-            <field name="NUM">-100</field>
-          </block>
-        </value>
+  <block type="movement_rightmotor" id="20" inline="true" x="54" y="89">
+    <value name="MOVRIGHT">
+      <block type="math_number" id="27">
+        <field name="NUM">-100</field>
       </block>
-    </next>
+    </value>
   </block>
 </xml>
