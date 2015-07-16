@@ -1,7 +1,12 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_rightmotor" id="20" inline="true" x="54" y="89">
-    <value name="MOVRIGHT">
+  <block type="movement_setmotors" id="20" inline="true" x="158" y="208">
+    <value name="BOTHMOVLEFT">
       <block type="math_number" id="27">
+        <field name="NUM">100</field>
+      </block>
+    </value>
+    <value name="BOTHMOVRIGHT">
+      <block type="math_number" id="34">
         <field name="NUM">-100</field>
       </block>
     </value>
